@@ -1,4 +1,4 @@
-Hello there 👋, Nice to meet you
+Hello there 👋, Nice to meet you<br />
 
 I am a Senior Developer developing and delivering requirements at par with the best industry standards.<br />
 I am an expert at building from scratch and developed and deployed multiple web apps.<br />
@@ -10,7 +10,7 @@ Stack Overflow: https://stackoverflow.com/users/8155208/sudhanshu-kumar<br />
 
 🏅 Experience<br />
 
-1️⃣  Frontend
+1️⃣  Frontend<br />
     💥 React, Next, Vue, TypeScript, Javascript<br />
     💥 Material-UI, Tailwind, CSS, Bootstrap, Redux-Toolkit, Redux-thunk, Redux-saga<br />
     💥 Cypress, React Testing Library<br />

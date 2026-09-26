@@ -1,1 +1,1 @@
-The Era of Digital Human Resource is Over !
+The Era of Digital Human Resources is Over 

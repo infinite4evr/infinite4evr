@@ -1,1 +1,1 @@
-The Era of Digital Human Resources is Over 
+The Era of Digital Revolution has begun.

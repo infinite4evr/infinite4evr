@@ -1,1 +1,1 @@
-The Era of Digital Revolution has begun.
+Living through the era of Digital Revolution.
